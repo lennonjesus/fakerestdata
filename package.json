@@ -1,0 +1,16 @@
+{
+  "name": "fakerestdata",
+  "version": "1.0.0",
+  "description": "Fake Rest Data to my own tests",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lennon Jesus <lennon.jesus@gmail.com>",
+  "license": "MIT"
+}

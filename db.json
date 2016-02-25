@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": "2",
+      "title": "A new event",
+      "address": "Blah blah",
+      "brief_description": "A new event coming soon",
+      "description": "Whow!",
+      "lat": "45.43721719997555",
+      "lng": "12.33392357826233",
+      "phone": "",
+      "email": "",
+      "url": "http://www.mycompany.com/new/",
+      "start_date_time": "2016-02-22 19:00:00",
+      "end_date_time": "2016-02-22 21:00:00",
+      "status": "2"
+    },
+    {
+      "id": "1",
+      "title": "My event",
+      "address": "Rio",
+      "brief_description": "This is my  new event",
+      "description": "Lorem Ipsum",
+      "lat": "41.8935085",
+      "lng": "12.4825526",
+      "phone": "",
+      "email": "",
+      "url": "http://www.myevents.com/next/",
+      "start_date_time": "2016-03-25 18:00:00",
+      "end_date_time": "2016-04-27 22:00:00",
+      "status": "2"
+    }
+  ]
+}
