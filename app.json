@@ -1,0 +1,7 @@
+{
+  "name": "fakerestdata",
+  "description": "Fake Rest Data to my own tests",
+  "repository": "https://github.com/lennonjesus/fakerestdata",
+  "keywords": ["database", "rest", "fake"],
+  "image": "heroku/nodejs"
+}
